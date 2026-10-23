@@ -1,0 +1,7 @@
+[book]
+title = "Data Poisoning of Code Models"
+language = "en"
+src = "."
+
+[output.html]
+git-repository-url = "https://github.com/<you>/code-model-data-poisoning"
